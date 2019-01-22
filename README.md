@@ -12,7 +12,9 @@ This implementation uses the NBV-dataset.
 
 Some examples of the dataset are:
 
-<img src="nbv_example_1"/>
+![A test image](nbv_example_1.png)
+
+<img src="nbv_example_1.png"/>
 
 
 [jivg.org]: <https://jivg.org/>

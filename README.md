@@ -7,7 +7,7 @@ Medoza's master thesis is:
 
 The research paper is under review but you can use and cite our preprint:
 
-> Miguel Mendoza, J. Irving Vasquez-Gomez, Hind Taud, Enrique Sucar, and Carolina Reta. Supervised learning of the next-best-view for 3d object reconstruction. Under Review in Pattern Recognition Letters. https://jivasquez.files.wordpress.com/2019/01/mendoza_supervised_preprint.pdf.
+> Mendoza, M., Vasquez-Gomez, J. I., Taud, H., Sucar, L. E., & Reta, C. (2019). Supervised Learning of the Next-Best-View for 3D Object Reconstruction. arXiv preprint arXiv:1905.05833.
 
 This implementation uses the [NBV-Dataset]. Some examples of the dataset are:
 

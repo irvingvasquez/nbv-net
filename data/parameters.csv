@@ -1,0 +1,2 @@
+epochs,batch_size,learning_rate,dropout_prob
+1000,1000,0.001,0.2
